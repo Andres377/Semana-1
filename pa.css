@@ -1,0 +1,88 @@
+body{
+background-image: url(font.jpg);  
+background-size:100% 100%;
+background-attachment: fixed;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	color: black;
+}
+.tab{
+	left: 15%;
+	height: 50%;
+	width: 80%;
+	position: absolute;
+	top: 32%;
+}
+.texo{
+	
+	height: 60%;
+	position: absolute;
+	top: 8%;
+	left: 42%;
+	font-family: verdana;
+
+}
+.ima{
+	left: -1%;
+	border-radius: 5px;
+	position: absolute;
+	top: 1%;
+	width: 40%;
+	height: 65%;
+	border: color 10px solid
+}
+.n1{
+	position: absolute;
+	top: 1%;
+	left: 0%;
+	background-color:  #DCEB7A;
+	width: 100%;
+	height: 12%;
+	opacity: 0.5;
+border: white 3px solid;
+}
+.conter{
+	position: absolute;
+	left: 28%;
+	top: 4%;
+
+}
+.bot{
+
+	align-self: center;
+ 	text-decoration: none;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #3B101B;
+    border-radius: 6px;
+    border: 1px solid #673733;
+    margin: 3px;
+ }
+  .bot:hover{
+ 	color: #583936;
+    background-color: #D0D3D4;
+ }
+.mas-grande {
+	top: 12%;
+	position: absolute;
+	left: 45%;
+    font-size: 40px;
+    font-variant: small-caps;
+}
+
+.whi{
+	opacity: 0.8;
+	border-radius: 15px;
+	background-color: white;
+	width: 85%;
+	height: 75%;
+	position: absolute;
+	top: -3%;
+	left: -3%;
+}

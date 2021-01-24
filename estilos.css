@@ -1,0 +1,109 @@
+body{
+background-image: url(font.jpg);  
+background-size:100% 100%;
+background-attachment: fixed;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	color: black;
+}
+.tab{
+	height: 50%;
+	width: 80%;
+	position: absolute;
+	top: 32%;
+}
+.texo{
+	border-radius: 15px;
+	background-color: white;
+	height: 60%;
+	position: absolute;
+	top: 3%;
+	left: 45%;
+	font-family: verdana;
+
+}
+.ima{
+	position: absolute;
+	top: 1%;
+	width: 40%;
+	height: 0%;
+}
+.n1{
+	position: absolute;
+	top: 1%;
+	left: 0%;
+	background-color:  #DCEB7A;
+	width: 100%;
+	height: 12%;
+	opacity: 0.5;
+border: white 3px solid;
+}
+.conter{
+	position: absolute;
+	left: 25%;
+	top: 4%;
+
+}
+.bot{
+
+ 	text-decoration: none;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #3B101B;
+    border-radius: 6px;
+    border: 1px solid #673733;
+    margin: 3px;
+ }
+  .bot:hover{
+ 	color: #583936;
+    background-color: #D0D3D4;
+ }
+.ima2{
+	position: absolute;
+	opacity: none;
+	left: 12%;
+	width: 18%;
+	height: 48%;
+	border-radius: 55px;
+	top: 25%;
+	margin: 2%;
+
+}
+.mas-grande {
+	top: -4%;
+	position: absolute;
+	left: 30%;
+    font-size: 40px;
+    font-variant: small-caps;
+}
+.dats{
+	top: 18%;
+	left: 30%;
+    position: absolute;
+    font-size: 25px;
+    margin: 2%;
+}
+.prese{
+	position: absolute;
+	font-size: 20px;
+	top: 45%;
+	left: 33%;
+
+}
+.whi{
+	
+	top: 25%;
+	left: 12%;
+	position: absolute;
+	background-color: white;
+	opacity: 0.8;
+	border-radius: 5px;
+	width: 75%;
+	height: 58%;
+}
